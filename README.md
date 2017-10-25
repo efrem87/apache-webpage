@@ -20,5 +20,5 @@ BSD
 Author Information
 ------------------
 
-Jordi Molina - jordi@teradisk.com
-
+Efrem Sallés - esallescorominas@gmail.com
+a
